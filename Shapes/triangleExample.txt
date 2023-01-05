@@ -1,0 +1,2 @@
+triangle 60 51 1 0 true 100 0 0 255 2000
+triangle 23 51 0 1 false 100 0 0 255 4000
